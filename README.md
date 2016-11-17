@@ -1,3 +1,5 @@
+Fixed a couple install problems of psemu's original, nothing special https://github.com/psemu/forgelight-chunk
+
 soe-chunk
 ============
 
